@@ -1440,10 +1440,10 @@
 				"proportionaltoparent"	"1"
 				"restrict_width" "0"
 
-				"CasualEntry"
+				"LW_DEMO"
 				{
 					"ControlName"	"CMainMenuPlayListEntry"
-					"fieldName"		"CasualEntry"
+					"fieldName"		"LW_DEMO"
 					"xpos"			"0"
 					"ypos"			"3"
 					"tall"			"45"
@@ -1456,10 +1456,10 @@
 					"desc_token"		"Shift+f2 do the same."
 				}
 
-				"CompetitiveEntry"
+				"LW_CONSOLE"
 				{
 					"ControlName"	"CMainMenuPlayListEntry"
-					"fieldName"		"CompetitiveEntry"
+					"fieldName"		"LW_CONSOLE"
 					"xpos"			"0"
 					"ypos"			"53"
 					"tall"			"45"
@@ -1472,10 +1472,10 @@
 					"desc_token"		"  "
 				}
 
-				"MvMEntry"
+				"LW_HELP"
 				{
 					"ControlName"	"CMainMenuPlayListEntry"
-					"fieldName"		"MvMEntry"
+					"fieldName"		"LW_HELP"
 					"xpos"			"0"
 					"ypos"			"103"
 					"tall"			"45"
@@ -1487,11 +1487,11 @@
 					"button_command"	"engine showhelp"
 					"desc_token"		"Keybindings."
 				}
-
-				"ServerBrowserEntry"
+				
+				"LW_RELOAD"
 				{
 					"ControlName"	"CMainMenuPlayListEntry"
-					"fieldName"		"ServerBrowserEntry"
+					"fieldName"		"LW_RELOAD"
 					"xpos"			"0"
 					"ypos"			"153"
 					"tall"			"45"
@@ -1504,10 +1504,10 @@
 					"desc_token"		"To fix some animations."
 				}
 
-				"TrainingEntry"
+				"LW_TREE"
 				{
 					"ControlName"	"CMainMenuPlayListEntry"
-					"fieldName"		"TrainingEntry"
+					"fieldName"		"LW_TREE"
 					"xpos"			"0"
 					"ypos"			"203"
 					"tall"			"45"
